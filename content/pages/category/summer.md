@@ -1,5 +1,4 @@
 ---
-title: s
 layout: category
 order: 4
 seo:
