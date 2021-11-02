@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Cactuse
 layout: category
 order: 2
 seo:
